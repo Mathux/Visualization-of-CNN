@@ -105,6 +105,11 @@ Test dataset: Loss=$0.649$, Accuracy=$0.800$
 <image src="https://perso.crans.org/petrovich/objrec/ship_all.png" controls style="width:100%" ></image>
 
 
+## Visualize the last conv layer
+### Last conv layer (dog)
+<image src="https://perso.crans.org/petrovich/objrec/dog_all.png" controls style="width:100%" ></image>
+
+
 
 ## Reference
 - *Visualizing and Understanding Convolutional Networks* by Matthew D. Zeiler and Rob Fergus
