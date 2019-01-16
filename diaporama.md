@@ -108,11 +108,3 @@ Test dataset: Loss=$0.649$, Accuracy=$0.800$
 
 ## Reference
 - *Visualizing and Understanding Convolutional Networks* by Matthew D. Zeiler and Rob Fergus
-
-
-
-
-
-### What part of the image is important?
-<image src="https://perso.crans.org/petrovich/objrec/featuemap.png" controls style="width:80%" ></image>
-
