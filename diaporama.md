@@ -91,7 +91,18 @@ Test dataset: Loss=$0.649$, Accuracy=$0.800$
 
 
 ## Visualize the last conv layer
+### Last conv layer (car)
 <image src="https://perso.crans.org/petrovich/objrec/car_all.png" controls style="width:100%" ></image>
+
+
+## Visualize the last conv layer
+### Last conv layer (frog)
+<image src="https://perso.crans.org/petrovich/objrec/forg_all.png" controls style="width:100%" ></image>
+
+
+## Visualize the last conv layer
+### Last conv layer (ship)
+<image src="https://perso.crans.org/petrovich/objrec/ship_all.png" controls style="width:100%" ></image>
 
 
 
